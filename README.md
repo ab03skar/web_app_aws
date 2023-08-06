@@ -1,10 +1,8 @@
-# CD12352 - Infrastructure as Code Project Solution
-Feras alaskar
+
 
 
 ## Spin up instructions
-NOTE: i included shell "solution.sh" from a previous exercise just in case if my run.py didnt work
-both have same parameters.
+
 
 
 1-launch bash on the file to get the correct directory
